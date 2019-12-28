@@ -6,9 +6,9 @@ The study consists of two parts:
 
 1. First, you have to do a personality test. When you carry out the test, please consider the following:
 
-  - Answer honestly, even if you don't like the answer.
+  - <b> Answer honestly </b>, even if you don't like the answer.
   - Describe yourself as you generally are now, not as you wish to be in the future.
-  - Your spontaneous answer is usually the most accurate.
+  - Your spontaneous answer is usually the most accurate. 
 
   Once you have finished the test, you will see your results. IMPORTANT: In order to guarantee anonymity please copy your       personal ID, which you can find at the top right of the webside. Then open the link mentioned in 2. and paste it in the       survey. 
 
