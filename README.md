@@ -12,7 +12,7 @@ The study consists of <b>two parts</b>:
   
 Once you have finished the test, you will see your results. IMPORTANT: In order to guarantee anonymity please copy your       personal ID, which you can find at the top right of the website. Then open the link mentioned in 2. and paste it in the       survey. 
 
-<i>The personality test opens in a new window: <a href="https://bigfive-test.com/"> The Big Five Personality Test</a></i>
+<i>The personality test opens in a new window: <a href="https://bigfive-test.com/ "target="_blank"> The Big Five Personality Test</a></i>
   
 2. The second part of the study consists of a <i><b>survey</b></i>. After you have copy & pasted the ID of your personality test in the respective window, just follow the instructions described in the survey: LINK to the survey
 
