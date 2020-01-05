@@ -14,6 +14,6 @@ Once you have finished the test, you will see your results. IMPORTANT: In order 
 
 The personality test opens in a new window: https://bigfive-test.com/
   
-2. The second part of the study consists of a survey. After you have copy & pasted the ID of your personality test in the respective window, just follow the instructions described in the survey: LINK
+2. The second part of the study consists of a survey. After you have copy & pasted the ID of your personality test in the respective window, just follow the instructions described in the survey: LINK to the survey
 
 The whole study will take you about 15-20 minutes. Thanks in advance for your thoughtful completion of these questions - we really appreciate your time, effort and the contribution you made to our research project!
